@@ -1,1 +1,5 @@
-# My Eleventy Project
+---
+layout: base
+---
+
+# Welcome to Digital Sanctum
